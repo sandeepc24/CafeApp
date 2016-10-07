@@ -1,0 +1,16 @@
+C:\Dev\Projects\CafeApp\src\CafeApp.Core.Tests\bin\Debug\CafeApp.Core.Tests.XML
+C:\Dev\Projects\CafeApp\src\CafeApp.Core.Tests\bin\Debug\CafeApp.Core.Tests.dll
+C:\Dev\Projects\CafeApp\src\CafeApp.Core.Tests\bin\Debug\CafeApp.Core.Tests.pdb
+C:\Dev\Projects\CafeApp\src\CafeApp.Core.Tests\bin\Debug\CafeApp.Core.dll
+C:\Dev\Projects\CafeApp\src\CafeApp.Core.Tests\bin\Debug\FSharp.Core.dll
+C:\Dev\Projects\CafeApp\src\CafeApp.Core.Tests\bin\Debug\nunit.framework.dll
+C:\Dev\Projects\CafeApp\src\CafeApp.Core.Tests\bin\Debug\CafeApp.Core.pdb
+C:\Dev\Projects\CafeApp\src\CafeApp.Core.Tests\bin\Debug\CafeApp.Core.xml
+C:\Dev\Projects\CafeApp\src\CafeApp.Core.Tests\bin\Debug\FSharp.Core.xml
+C:\Dev\Projects\CafeApp\src\CafeApp.Core.Tests\bin\Debug\nunit.framework.xml
+C:\Dev\Projects\CafeApp\src\CafeApp.Core.Tests\obj\Debug\CafeApp.Core.Tests.fsprojResolveAssemblyReference.cache
+C:\Dev\Projects\CafeApp\src\CafeApp.Core.Tests\obj\Debug\CafeApp.Core.Tests.dll
+C:\Dev\Projects\CafeApp\src\CafeApp.Core.Tests\obj\Debug\CafeApp.Core.Tests.pdb
+c:\Dev\Projects\CafeApp\src\tests\CafeApp.Core.Tests.dll
+c:\Dev\Projects\CafeApp\src\tests\CafeApp.Core.Tests.pdb
+c:\Dev\Projects\CafeApp\src\tests\CafeApp.Core.Tests.XML
