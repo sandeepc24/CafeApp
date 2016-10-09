@@ -1,0 +1,7 @@
+/src/build
+/src/packages
+/src/tests
+/src/CafeApp.Core/obj
+/src/CafeApp.Core/bin
+/src/CafeApp.Core.Tests/bin
+/src/CafeApp.Core.Tests/obj

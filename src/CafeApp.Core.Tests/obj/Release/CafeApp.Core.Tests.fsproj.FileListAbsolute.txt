@@ -1,6 +1,0 @@
-c:\Dev\Projects\CafeApp\src\build\CafeApp.Core.Tests.dll
-c:\Dev\Projects\CafeApp\src\build\CafeApp.Core.Tests.pdb
-c:\Dev\Projects\CafeApp\src\build\CafeApp.Core.Tests.XML
-c:\Dev\Projects\CafeApp\src\CafeApp.Core.Tests\obj\Release\CafeApp.Core.Tests.fsprojResolveAssemblyReference.cache
-c:\Dev\Projects\CafeApp\src\CafeApp.Core.Tests\obj\Release\CafeApp.Core.Tests.dll
-c:\Dev\Projects\CafeApp\src\CafeApp.Core.Tests\obj\Release\CafeApp.Core.Tests.pdb
