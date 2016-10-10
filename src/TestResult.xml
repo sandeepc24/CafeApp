@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--This file represents the results of running a test suite-->
-<test-results name="c:\Dev\Projects\CafeApp\src\tests\CafeApp.Core.Tests.dll" total="0" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-10-09" time="12:38:05">
-  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8745" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="c:\Dev\Projects\CafeApp\src" machine-name="SCVAIO" user="sandeep" user-domain="SCVAIO" />
+<test-results name="c:\Dev\CafeApp\src\tests\CafeApp.Core.Tests.dll" total="1" errors="0" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-10-10" time="17:33:11">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8689" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="c:\Dev\CafeApp\src" machine-name="STNZ-WK888" user="SandeepC" user-domain="SOFTTECH" />
   <culture-info current-culture="en-NZ" current-uiculture="en-US" />
-  <test-suite type="Assembly" name="c:\Dev\Projects\CafeApp\src\tests\CafeApp.Core.Tests.dll" executed="True" result="Inconclusive" success="False" time="0.011" asserts="0" />
+  <test-suite type="Assembly" name="c:\Dev\CafeApp\src\tests\CafeApp.Core.Tests.dll" executed="True" result="Failure" success="False" time="0.186" asserts="0">
+    <results>
+      <test-suite type="TestFixture" name="OpenTabTests" executed="True" result="Failure" success="False" time="0.179" asserts="0">
+        <results>
+          <test-case name="OpenTabTests.Can Open a new Tab" executed="True" result="Failure" success="False" time="0.174" asserts="1">
+            <failure>
+              <message><![CDATA[  Expected: OpenedTab {Id = 1cd223f9-7b54-4c59-abfa-ae851ab9a52c;
+           TableNumber = 1;}, but was (OpenedTab {Id = 1cd223f9-7b54-4c59-abfa-ae851ab9a52c;
+            TableNumber = 1;},
+ [TabOpened {Id = 1cd223f9-7b54-4c59-abfa-ae851ab9a52c;
+             TableNumber = 1;}])
+]]></message>
+              <stack-trace><![CDATA[at FsUnit.TopLevelOperators.should[a,a](FSharpFunc`2 f, a x, Object y) in d:\GitHub\FsUnit\src\FsUnit.NUnit\FsUnit.fs:line 48
+at CafeAppTestsDSL.ThenStateShouldBe[a](a expectedState, Command command, State state) in c:\Dev\CafeApp\src\CafeApp.Core.Tests\CafeAppTestsDSL.fs:line 12
+at OpenTabTests.Can Open a new Tab() in c:\Dev\CafeApp\src\CafeApp.Core.Tests\OpenTabTests.fs:line 15
+]]></stack-trace>
+            </failure>
+          </test-case>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
 </test-results>

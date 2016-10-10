@@ -5,3 +5,6 @@
 /src/CafeApp.Core/bin
 /src/CafeApp.Core.Tests/bin
 /src/CafeApp.Core.Tests/obj
+/src/.fake/build.fsx_4AB9E60C.dll
+/src/.fake/build.fsx_4AB9E60C_config.xml
+/src/.fake/build.fsx_4AB9E60C_warnings.txt

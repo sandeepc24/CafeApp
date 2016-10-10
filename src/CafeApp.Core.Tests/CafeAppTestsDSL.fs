@@ -2,7 +2,7 @@ module CafeAppTestsDSL
 
 open FsUnit
 open NUnit.Framework
-open CommnadHandlers
+open CommandHandlers
 open States
 
 let Given(state : State) = state
