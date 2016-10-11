@@ -1,4 +1,5 @@
 source https://api.nuget.org/v3/index.json
+nuget Chessie
 nuget FAKE
 nuget NUnit 2.6.4
 nuget NUnit.Runners 2.6.4
