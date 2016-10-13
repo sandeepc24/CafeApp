@@ -11,3 +11,5 @@
 /src/.fake/build.fsx_28CFA608.dll
 /src/.fake/build.fsx_28CFA608_config.xml
 /src/.fake/build.fsx_28CFA608_warnings.txt
+/src/.paket/*.exe
+/src/.vs/CafeApp/v14/*.suo
